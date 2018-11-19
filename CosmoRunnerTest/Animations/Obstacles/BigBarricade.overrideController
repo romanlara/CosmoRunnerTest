@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BigBarricade
+  m_Controller: {fileID: 9100000, guid: ae1b4aa7ebeaa2b4a947b290d0933166, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c013ddb982d6b274ebf14263a23d004d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0d805bd772f803b48b0ffa9d637204b7, type: 2}
